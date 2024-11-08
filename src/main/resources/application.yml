@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: sentinel
+server:
+  port: 8081
